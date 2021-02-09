@@ -1,4 +1,4 @@
-# Look at Look at https://dimaberkutov.github.io/react-pagination/
+# Look at Look at https://dimaberkutov.github.io/folder-structure/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
